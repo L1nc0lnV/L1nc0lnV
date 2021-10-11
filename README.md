@@ -1,19 +1,7 @@
-### Hi there 👋
+### I accelerate things. Think plaid or ludicrous speed.
 
-- 🔭 I’m currently working on ... Campaign managment integrations with Facebook https://www.facebook.com/business/tools/ads-manager
-- 🌱 I’m currently learning ... Azure Arc https://azure.microsoft.com/en-us/services/azure-arc/hybrid-data-services/#overview
-- 👯 I’m looking to collaborate on ... Open source, social equity initiatives relating to education, ennvironment, tech
+I write code to integrate diverse systems & platforms, work with data at scale, and developer toolkits. I also manage a very talented group of develoeprs at [Butler/Till Media Services](https://butlertill.com/), working to improve martech and interfacing with Social Media & Google. I teach/facilitate courses at Boston University & St. John Fisher College, in areas such as data design and management and security. 
 
+My spare time is devoted to leveraging tech to improve health outcomes of people growing up or around Superfund sites, and teaching disadvantaged groups how to work with tehcnology to elevate themselves and their families.
 
-<!--
-**L1nc0lnV/L1nc0lnV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- 🤔 I’m looking for help with ...
-
--->
+🥂 Cheers!
